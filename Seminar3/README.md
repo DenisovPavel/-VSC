@@ -18,3 +18,7 @@ System.out.println("Hello, World!");
 далее производим команды git add , git commit -m "";
 
 И push-им файл на GidHub;
+
+После того как залили файл на GitHub (он меняется на Git другими участниками проекта=) - это к примеру
+
+и обратное вытягиваем его в Visual Studio Code  через команду git pull
